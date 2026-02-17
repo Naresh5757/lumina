@@ -41,7 +41,7 @@ const Sidebar = () => {
                 <button className="w-full flex items-center gap-3 px-4 py-3 rounded-lg text-left transition-colors mb-1 hover:bg-white/5"
                     style={{ color: 'var(--text-primary)' }}>
                     <FiMessageSquare size={18} style={{ color: 'var(--text-secondary)' }} />
-                    <span className="truncate text-sm">Welcome to Lumina</span>
+                    <span className="truncate text-sm">Welcome to naresh</span>
                 </button>
             </div>
 
